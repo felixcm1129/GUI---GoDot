@@ -3,6 +3,9 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/buddy_orange.png-633defc68295beb5b03cc018bfc2a3e8.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 

@@ -3,6 +3,9 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/emeralds_icon.png-c0698ac02405d50196eb58010d0115b0.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
